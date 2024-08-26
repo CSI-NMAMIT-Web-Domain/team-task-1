@@ -1,0 +1,15 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    background-color: gray;
+    padding: 5px;
+    border: 2px solid black;
+}
+
+.profile-img{
+    width:200px;
+    border-radius:100%;
+}
