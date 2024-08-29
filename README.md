@@ -21,7 +21,7 @@ To contribute to this project, follow the steps below:
      ```bash
      cd team-task-1
      ```
-   - Create a new HTML file or modify the existing ones. Add a `div` element containing your name, image, and a brief description about yourself. For example:
+   - Modify the existing `index.html` by adding a `div` element containing your name, image, and a brief description about yourself. For example:
      ```html
      <div class="container">
        <img src="your-image-url.jpg" alt="Your Name">
@@ -29,7 +29,8 @@ To contribute to this project, follow the steps below:
        <p>Your description goes here.</p>
      </div>
      ```
-   - Add your changes to the `index.html` or other relevant files.
+   - Add your picture under the images folder.
+   - Add your styles to the `styles.css`.
 
 4. **Commit Your Changes**
    - Stage your changes:
